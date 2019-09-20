@@ -1,6 +1,6 @@
 # todobackend
 Django application
-Django application Todobackend is created using django-admin startproject todobackend command:
+Todobackend is created using django-admin startproject todobackend command:
 
 ```
 root@vivek-VirtualBox:/home/vivek/Desktop# python -m pip install "django<2"
